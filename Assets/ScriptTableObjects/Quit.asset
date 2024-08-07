@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d332333b125431141b64f1210d980d78, type: 3}
+  m_Name: Quit
+  m_EditorClassIdentifier: 
+  writeValues:
+  - // Hello I am Ben
+  - // The Developer Ben!
+  - // You want to be a game developer right?
+  - // I am gonna help you!
+  - // First, we need a win condition right?
+  - // Let's write the following the code
+  - // and see what's happened.
+  - /*
+  - AddWinCondition()
+  - '*/'
+  values:
+  - // Hello I am Ben
+  - // The Developer Ben!
+  - // You want to be a game developer right?
+  - // I am gonna help you!
+  - // First, we need a win condition right?
+  - // Let's write the following the code
+  - // and see what's happened.
+  - /*
+  - AddWinCondition()
+  - '*/'
+  wrongValues:
+  - // You already started the game kiddo.
+  isWriting: 0
+  id: Quit
+  functionID: Quit
+  isRandom: 0
+  nameID: Quit()
+  benSounds:
+  - {fileID: 8300000, guid: 9f1a79e583cd77c43bb6b848e16b8ade, type: 3}
+  - {fileID: 8300000, guid: a36e8963c3af7be4a96cfbb546b297e5, type: 3}
+  - {fileID: 8300000, guid: 41500abc2ce0c564b99f1a5d7672c931, type: 3}
+  - {fileID: 8300000, guid: 18acef1d8fa08954885a1ba5e494b17a, type: 3}
+  - {fileID: 8300000, guid: 7f2607748462b7944afd84c3574dcf9b, type: 3}
+  - {fileID: 8300000, guid: 9bced3c23f5298b4d9690fd665a1371d, type: 3}

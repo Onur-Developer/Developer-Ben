@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d332333b125431141b64f1210d980d78, type: 3}
+  m_Name: AddWinCondition
+  m_EditorClassIdentifier: 
+  writeValues:
+  - // Hmm, Looks like some things are
+  - // missing in the game.
+  - // but what?
+  - // Oh, I've notice now.
+  - // We need a player which we can control it
+  - // So, let's add that.
+  - /*
+  - AddPlayer()
+  - '*/'
+  values:
+  - // Hmm, Looks like some things are
+  - // missing in the game.
+  - // but what?
+  - // Oh, I've notice now.
+  - // We need a player which we can control it
+  - // So, let's add that.
+  - /*
+  - AddPlayer()
+  - '*/'
+  wrongValues:
+  - // You already add the win condition.
+  isWriting: 0
+  id: Function
+  functionID: AddWinCondition
+  isRandom: 0
+  nameID: AddWinCondition()
+  benSounds:
+  - {fileID: 8300000, guid: d7eed3b4753731149be97c2cdad3fbbf, type: 3}
+  - {fileID: 8300000, guid: 218868037b5b1384b890b471e5d67278, type: 3}
+  - {fileID: 8300000, guid: 21652540e7667aa45b9d563f34bfcf22, type: 3}
+  - {fileID: 8300000, guid: cbf30017ce5472c4b9f847bc14222acb, type: 3}
+  - {fileID: 8300000, guid: 13abcab79ab0fe440a5acbbb2622f50b, type: 3}
+  - {fileID: 8300000, guid: a117e6f552cf9884e8376a240a3f0258, type: 3}

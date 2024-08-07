@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d332333b125431141b64f1210d980d78, type: 3}
+  m_Name: AddParticle
+  m_EditorClassIdentifier: 
+  writeValues:
+  - // Particles really added color to your game.
+  values:
+  - // Particles really added color
+  - // to your game.
+  wrongValues:
+  - // You already add a Particle.
+  isWriting: 0
+  id: Function
+  functionID: AddParticle
+  isRandom: 1
+  nameID: AddParticle()
+  benSounds:
+  - {fileID: 8300000, guid: ba326ed95489f7846bab0d52b573d089, type: 3}

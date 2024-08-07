@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d332333b125431141b64f1210d980d78, type: 3}
+  m_Name: AddBasicEnemy
+  m_EditorClassIdentifier: 
+  writeValues:
+  - // Prototype is finished.
+  - // Thank you for playing.
+  values:
+  - // Okayyy.
+  - // Now it's your turn,
+  - // The random functions are appear
+  - // to you by 3 by 3.
+  - // Write one by each other and continue.
+  wrongValues:
+  - // You already add a Basic Enemy.
+  isWriting: 0
+  id: Function
+  functionID: AddBasicEnemy
+  isRandom: 0
+  nameID: AddBasicEnemy()
+  benSounds:
+  - {fileID: 8300000, guid: 88cb8472070ca7842bd23cae39eafe07, type: 3}
+  - {fileID: 8300000, guid: 0e5404d5d3ad7964589cb5c0f5072641, type: 3}
+  - {fileID: 8300000, guid: ace2734fb03fd11499681397e5d8cd0e, type: 3}
+  - {fileID: 8300000, guid: 5014879b2ee70754f88bdde8d7aa5a5b, type: 3}

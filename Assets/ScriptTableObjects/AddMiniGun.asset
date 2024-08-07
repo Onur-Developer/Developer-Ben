@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d332333b125431141b64f1210d980d78, type: 3}
+  m_Name: AddMiniGun
+  m_EditorClassIdentifier: 
+  writeValues:
+  - // Machine Gun is very cool right?
+  values:
+  - // The power of this weapon is amazing
+  wrongValues:
+  - // You already add a Mini gun.
+  isWriting: 0
+  id: Function
+  functionID: AddMiniGun
+  isRandom: 1
+  nameID: AddMiniGun()
+  benSounds:
+  - {fileID: 8300000, guid: c280abb2723def74cb8574431485ce9f, type: 3}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d332333b125431141b64f1210d980d78, type: 3}
+  m_Name: AddDrone
+  m_EditorClassIdentifier: 
+  writeValues:
+  - // Machine Gun is very cool right?
+  values:
+  - // Here is a real supporter.
+  wrongValues:
+  - // You already add a Drone.
+  isWriting: 0
+  id: Function
+  functionID: AddDrone
+  isRandom: 1
+  nameID: AddDrone()
+  benSounds:
+  - {fileID: 8300000, guid: f21b040756e729c4785d6027626d4a37, type: 3}

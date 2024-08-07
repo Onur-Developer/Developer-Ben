@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d332333b125431141b64f1210d980d78, type: 3}
+  m_Name: AddShieldEnemy
+  m_EditorClassIdentifier: 
+  writeValues:
+  - // Machine Gun is very cool right?
+  values:
+  - // You took out those armored enemies well
+  - // Congratulations kiddo.
+  wrongValues:
+  - // You already add a Shield enemy.
+  isWriting: 0
+  id: Function
+  functionID: AddShieldEnemy
+  isRandom: 1
+  nameID: AddShieldEnemy()
+  benSounds:
+  - {fileID: 8300000, guid: d5b63a4da0650814bb658f6472f3b58a, type: 3}
+  - {fileID: 8300000, guid: ba1cb6d05fc598c4486399fa17e8e4bd, type: 3}
